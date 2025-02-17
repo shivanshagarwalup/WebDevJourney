@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+}
+header h1 {
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+.about {
+    background-color: #fff;
+    padding: 40px 0;
+}
+
+.about h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.1em;
+    color: #555;
+}
+.skills {
+    background-color: #f9f9f9;
+    padding: 40px 0;
+}
+
+.skills h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+.skills li {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 10px;
+}
+.contact {
+    background-color: #fff;
+    padding: 40px 0;
+}
+.contact h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+.contact p {
+    font-size: 1.1em;
+    color: #555;
+}
